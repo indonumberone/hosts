@@ -1,0 +1,2 @@
+# hosts
+Host PUBGMOBILE SAFE
