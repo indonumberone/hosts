@@ -1,6 +1,8 @@
 127.0.0.1   localhost
 ::1         ip6-localhost
 
+
+127.0.0.1 skip.violated.qq.com
 127.0.0.1 vmp.qq.com
 127.0.0.1 182.254.116.117
 127.0.0.1 pingma.qq.com
@@ -16,6 +18,7 @@
 122.0.0.1 dlied4.tcdn.qq.com
 122.0.0.1 dlied5.tcdn.qq.com
 122.0.0.1 dlied6.tcdn.qq.com
+122.0.0.1 skip.violated.qq.com
 122.0.0.1 hkconfig.gcloud.qq.com
 122.0.0.1 mp.weixin.qq.com
 122.0.0.1 wx.qq.com
